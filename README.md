@@ -18,6 +18,8 @@ This repository contains a Python ETL pipeline example built for Colab or local 
 - `numpy`
 - `scikit-learn`
 
+The dependency list is also available in `requirements.txt`.
+
 ## Install
 Run the following command to install dependencies:
 
